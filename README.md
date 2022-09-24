@@ -9,4 +9,4 @@ Um pequeno projeto para demonstrar a utilização da RouteAware juntamente com u
 2. Execute `flutter pub get`
 3. Execute `flutter run`
 
-Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [RouteObserver no Flutter]()
+Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [RouteObserver no Flutter](https://medium.com/@diegokalschne/routeobserver-no-flutter-507d3986540b)
